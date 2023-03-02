@@ -17,7 +17,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/will-bc/will-bc/output/github-contribution-grid-snake.svg">
   </picture>
   
-  ### My blogs
+  ### My latest blogs
   
   _______________________________
   
