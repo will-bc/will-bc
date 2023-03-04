@@ -46,7 +46,7 @@ ___________________________________
  A---> Bioinformatics
  A---> AI
  A---> Android-Cave 
- B---> MMT - Minimum-Motion-Technique
+ B---> MMT-Minimum-Motion-Technique
  Blockchain-Cryptocurrency --> Portal_Project
  B--->Portal_Project
  C--> Dota_Net
