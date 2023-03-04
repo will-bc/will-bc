@@ -34,9 +34,21 @@ ___________________________________
 
  graph TB
     
- subgraph  
+ subgraph  Repo Summary
 
-    A[Personal Tutorials] & D[Codes]
+    A[Personal Tutorials & Utilities] & B[Projects] & C[Random Things]
+   
     end
 
+ A---> Neurotechnology
+ A---> Blockchain-Cryptocurrency
+ A---> Nonlinear-techniques
+ A---> Bioinformatics
+ A---> AI
+ A---> Android-Cave 
+ B---> MMT - Minimum-Motion-Technique
+ Blockchain-Cryptocurrency --> Portal_Project
+ B--->Portal_Project
+ C--> Dota_Net
+    
  ```
