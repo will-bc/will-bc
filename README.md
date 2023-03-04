@@ -27,7 +27,16 @@
     
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@willianbarelacosta/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@willianbarelacosta/2" alt="Recent Article 2">
 
+___________________________________
 
 
+```mermaid
 
- 
+ graph TB
+    
+ subgraph  
+
+    A[Personal Tutorials] & D[Codes]
+    end
+
+ ```
