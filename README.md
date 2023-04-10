@@ -48,6 +48,8 @@ ___________________________________
  A---> Android-Cave 
  Blockchain-Cryptocurrency --> Portal_Project
  Neurotechnology --> Technodruidism
+ Neurotechnology --> Basic Analysis
+ Basic Analysis --> Synchronization
  B--->Portal_Project
  B---> Technoduidism
  B---> MMT-Minimum-Motion-Technique
