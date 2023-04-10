@@ -47,7 +47,9 @@ ___________________________________
  A---> AI
  A---> Android-Cave 
  Blockchain-Cryptocurrency --> Portal_Project
+ Neurotechnology --> Technodruidism
  B--->Portal_Project
+ B---> Technoduidism
  B---> MMT-Minimum-Motion-Technique
  C--> Dota_Net
     
