@@ -49,7 +49,7 @@ ___________________________________
  Blockchain-Cryptocurrency --> Portal_Project
  Neurotechnology --> Technodruidism
  Neurotechnology --> Basic_Analysis
- Basic Analysis --> Synchronization
+ Basic_Analysis --> Synchronization
  B--->Portal_Project
  B---> Technoduidism
  B---> MMT-Minimum-Motion-Technique
