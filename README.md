@@ -52,6 +52,7 @@ ___________________________________
  Basic_Analysis --> Synchronization
  B--->Portal_Project
  B---> Technoduidism
+ B---> Chaos_Aging
  B---> MMT-Minimum-Motion-Technique
  C--> Dota_Net
     
